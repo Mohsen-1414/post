@@ -1,0 +1,1 @@
+Application for authenticating a user and allowing them to post a text .
